@@ -9,14 +9,7 @@
 - 📝 I regularly write blogs on [https://areeb01.hashnode.dev/](https://areeb01.hashnode.dev/)
 
 - 📫 How to reach me **areebghani359@gmail.com**
-
-[![Areeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=AreebAbdulGhani)](https://github.com/AreebAbdulGhani/github-readme-stats&s)
-![Areeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=AreebAbdulGhani&show_icons=true)
+ 
 ![Areeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=AreebAbdulGhani&show_icons=true&theme=tokyonight)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AreebAbdulGhani&layout=compact)](https://github.com/AreebAbdulGhani/github-readme-stats)
-<a href="https://github.com/AreebAbdulGhani/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AreebAbdulGhani&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/AreebAbdulGhani/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AreebAbdulGhani&repo=convoychat" />
-</a>
