@@ -10,6 +10,6 @@
 
 - 📫 How to reach me **areebghani359@gmail.com**
  
-![Areeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=AreebAbdulGhani&show_icons=true&theme=tokyonight)
+ ![Areeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=AreebAbdulGhani&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AreebAbdulGhani&layout=compact)](https://github.com/AreebAbdulGhani/github-readme-stats)
