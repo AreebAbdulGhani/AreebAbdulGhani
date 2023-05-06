@@ -1,6 +1,6 @@
 ![MasterHead](https://media.licdn.com/dms/image/D5616AQGirynax71_rw/profile-displaybackgroundimage-shrink_350_1400/0/1673644679809?e=1678924800&v=beta&t=2smwJZGDiRoZz0LO0-oN1HmEYMMjL2UAN47Mg2t7ykA)
 <h1 align="center">Hi 👋, I'm Areeb Abdul Ghani</h1>
-<h3 align="center">I talk about DevOps and Cloud, Publish blog around DevOps.</h3>
+<h3 align="center">I do DevOps and GitOps stuff. I can increase your software lifecycle.</h3>
 <img align="right" alt="Coding" width="350" src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47iz84i1gnirh09r2s89y77t97fjyoqpymhukgi096&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=areebabdulghani&label=Profile%20views&color=0e75b6&style=flat" alt="areebabdulghani" /> </p>
 
